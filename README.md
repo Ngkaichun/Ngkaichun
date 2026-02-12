@@ -41,7 +41,6 @@ Innovation Project: EduGO
 - GOLD AWARD
 - TOP 5 AWARD (University Category B)
 - SPECIAL AWARD (MYSO Recognition)
-- *20th September - 15th October 2024*
 
 ### 🏆 International Awards
 - GOLD AWARD - International Informatics Creativity Competition 2024 (2i2C)
