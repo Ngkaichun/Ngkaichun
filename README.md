@@ -2,18 +2,15 @@
 
 `Award-Winning Innovator | Computer Science Student | Data Engineering Enthusiast | AIESEC Member`
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ngkaichun.ngkaichun" />
-
 ---
 
 ## 🏆 ABOUT ME
 
-I'm a highly passionate Computer Science student at Universiti Teknologi Malaysia specializing in Data Engineering,who gained international innovation awards and leadership excellence. As an active AIESEC member and award-winning innovator, I combine technical expertise with strong leadership capabilities to create impactful solutions.
+I'm a Computer Science student at Universiti Teknologi Malaysia specializing in Data Engineering,who gained international innovation awards and always strike hard to achieve the goal.As an active AIESEC member and award-winning innovator, I combine technical expertise with strong leadership capabilities to create impactful solutions.
 
 - 🏅 International Award Winner: Multiple gold medals and special awards for EduGO innovation project
 - 🌟 Academic Excellence: Perfect 4.00 GPA recipient in matriculation and Best Student Award 2024/2025 winner in Perak College Matriculation (KMPK)
-- 🔭 Currently advancing in data engineering, machine learning and scalable systems
-- 🌱 Deepening expertise in C++, Python, and data infrastructure
+- 🌱 Deepening expertise in C++
 - 💡 Passionate about educational technology and sustainable development that aligns with SDG goals
 
 ---
@@ -61,20 +58,19 @@ Innovation Project: EduGO
 ### 🎯 AR Gamified Learning Platform
 Revolutionizing education through interactive augmented reality experiences
 
-EduGO is an award-winning augmented reality (AR) gamified learning application that revolutionized traditional learning methods into engaging, interactive quests. The platform has received international recognition for its innovation in educational technology and contribution to sustainable development goals.
+EduGO is an award-winning augmented reality (AR) application that gamified traditional learning method and turn it into engaging, interactive quests. The platform has received international recognition for its innovation in educational technology and contribution to sustainable development goals,which focused on SDG 4 (Quality Education).
 
 🏆 Award-Winning Recognition:
 - 7+ International & National Awards
 - Multiple Gold Medals & Special Recognitions
-- Featured in World Sustainable Development Challenges (WSDG) 2024
+- Top 5 in World Sustainable Development Goal Challenge (WSDG) 2024
 
 Key Innovations:
-- Interactive AR educational quests and challenges
+- Interactive AR educational quests
 - Gamified learning progression system
-- Real-time student engagement tracking
 - Sustainable educational technology solution
 
-Impact: Significantly increases student motivation and knowledge retention through cutting-edge AR technology, making learning accessible and enjoyable.
+Impact: Successfully increases student motivation,engagement and knowledge retention through advanced AR technology, making learning accessible and enjoyable.
 
 ---
 
@@ -91,6 +87,7 @@ Impact: Significantly increases student motivation and knowledge retention throu
 - Microsoft 365
 
 ### 🌟 Areas of Expertise
+- Computer Science
 - Sustainable Development Solutions
 - Innovation & Project Management
 
