@@ -81,14 +81,14 @@ Impact: Significantly increases student motivation and knowledge retention throu
 ## 💻 TECHNICAL SKILLS
 
 ### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- C++
 
 ### 🛠️ Tools & Technologies
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+- LinkedIn
+- GitHub
+- Canva
+- Google Workspace
+- Microsoft 365
 
 ### 🌟 Areas of Expertise
 - Sustainable Development Solutions
@@ -127,9 +127,8 @@ Impact: Significantly increases student motivation and knowledge retention throu
 
 ## 📬 LET'S CONNECT & COLLABORATE!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngkaichun1114@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ng-kai-chun-6a8693389)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ngkaichun)
+ Email: ngkaichun1114@gmail.com  
+ LinkedIn: [Ng Kai Chun](https://www.linkedin.com/in/ng-kai-chun-6a8693389)  
 
 *📍 Born in Kepong, Kuala Lumpur | 🌟 Award-Winning Innovator | 🚀 Future Data Engineering Leader*
 
