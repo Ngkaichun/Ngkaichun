@@ -8,7 +8,7 @@
 
 ## 🏆 ABOUT ME
 
-I'm a highly accomplished Computer Science student at Universiti Teknologi Malaysia specializing in Data Engineering, with a proven track record of international innovation awards and leadership excellence. As an active AIESEC member and award-winning innovator, I combine technical expertise with strong leadership capabilities to create impactful solutions.
+I'm a highly passionate Computer Science student at Universiti Teknologi Malaysia specializing in Data Engineering,who gained international innovation awards and leadership excellence. As an active AIESEC member and award-winning innovator, I combine technical expertise with strong leadership capabilities to create impactful solutions.
 
 - 🏅 International Award Winner: Multiple gold medals and special awards for EduGO innovation project
 - 🌟 Academic Excellence: Perfect 4.00 GPA recipient in matriculation and Best Student Award 2024/2025 winner in Perak College Matriculation (KMPK)
@@ -56,7 +56,7 @@ Innovation Project: EduGO
 
 ---
 
-## 🚀 FLAGSHIP PROJECT: EDUGO
+## 🚀 MY INNOVATION PROJECT: EDUGO
 
 ### 🎯 AR Gamified Learning Platform
 Revolutionizing education through interactive augmented reality experiences
@@ -122,16 +122,6 @@ Impact: Significantly increases student motivation and knowledge retention throu
 | Music Lab: Jam Session (Hour of Code) | Successful Completion | Completed |
 | Nuclear Energy Exploration Visit | Malaysian Nuclear Agency (Selangor) | 2025 |
 | Leadership & Introduction Peer Assisted Learning (PAL) | KMPK | 2024 |
-
----
-
-## 📊 GitHub Stats
-
-![Ng Kai Chun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngkaichun&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngkaichun&layout=compact&theme=radical&hide_title=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ngkaichun&theme=radical)
 
 ---
 
