@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ng Kai Chun
 
-`Award-Winning Innovator | Computer Science Student | Data Engineering Enthusiast | AIESEC Leader`
+`Award-Winning Innovator | Computer Science Student | Data Engineering Enthusiast | AIESEC Member`
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ngkaichun.ngkaichun" />
 
